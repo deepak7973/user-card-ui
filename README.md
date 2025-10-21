@@ -20,3 +20,5 @@ A simple React project that displays user cards using props.
    ```bash
    git clone https://github.com/Deepak Pal/user-card-ui.git
    ```
+## 🔗 Live Demo
+Check out the live project here: [User Card UI](https://deepak7973.github.io/user-card-ui/)
